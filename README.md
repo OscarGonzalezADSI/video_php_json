@@ -41,6 +41,6 @@ pasos como consultor independiente en desarrollo de software.
 
 Sin su apoyo, esto no hubiera sido posible. http://flotarspa.com/
 
-Oscar Ivan Gonzalez Peña, To. ADSI-SENA
-consultor independiente en desarrollo de software.
-Para proyectos y asesorias (+57)322-8858439 whatsapp
+Oscar Ivan Gonzalez Peña, To. ADSI-SENA</br>
+consultor independiente en desarrollo de software.</br>
+Para proyectos y asesorias (+57)322-8858439 whatsapp</br>
