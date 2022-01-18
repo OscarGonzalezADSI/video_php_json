@@ -44,8 +44,7 @@ consultor independiente en desarrollo de software.</br>
 Para proyectos y asesorias (+57)322-8858439 whatsapp</br>
 
 # Agradecimientos especiales:
-A flotar, centro de estética y relajación, por apoyarme </br>
-en mis primeros pasos como consultor independiente en </br>
-desarrollo de software.</br>
+A flotar, centro de estética y relajación, por apoyarme en mis primeros pasos </br>
+como consultor independiente en desarrollo de software.</br>
 https://flotarspa.com/
 
