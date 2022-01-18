@@ -41,10 +41,10 @@ https://github.com/iandevlin/iandevlin.github.io
 # Desarrollado por:
 Oscar Ivan Gonzalez Peña, To. ADSI-SENA</br>
 consultor independiente en desarrollo de software.</br>
-Para proyectos y asesorias <a target="_blank" href="https://api.whatsapp.com/send?phone=573228858439&text=Hola%20Oscar,%20he%20visto%20tu%20proyecto%20de%20video_php_json.">(+57)322-8858439 </a>whatsapp</br>
+Para proyectos y asesorias <a href="https://api.whatsapp.com/send?phone=573228858439&text=Hola%20Oscar,%20he%20visto%20tu%20proyecto%20de%20video_php_json." target="blank" >(+57)322-8858439 </a>whatsapp</br>
 
 # Agradecimientos especiales:
 A flotar, centro de estética y relajación, por apoyarme en mis primeros pasos </br>
 como consultor independiente en desarrollo de software.</br>
-<a target="_blank" href="https://flotarspa.com/">flotarspa.com</a>
+<a href="https://flotarspa.com/"  target="blank">flotarspa.com</a>
 
