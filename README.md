@@ -38,13 +38,12 @@ https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery/cros
 Ian Devlin</br>
 https://github.com/iandevlin/iandevlin.github.io
 
-# Agradecimientos especiales:
-A flotar, centro de estetica y relajación, por apoyarme en mis primeros 
-pasos como consultor independiente en desarrollo de software.
-
-Sin su apoyo, esto no hubiera sido posible. http://flotarspa.com/
-
 # Desarrollado por:
 Oscar Ivan Gonzalez Peña, To. ADSI-SENA</br>
 consultor independiente en desarrollo de software.</br>
 Para proyectos y asesorias (+57)322-8858439 whatsapp</br>
+
+# Agradecimientos especiales:
+A flotar, centro de estetica y relajación, por apoyarme en mis primeros 
+pasos como consultor independiente en desarrollo de software.</br>
+
