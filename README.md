@@ -32,7 +32,10 @@ Ian Devlin</br>
 https://github.com/iandevlin
 
 # Fuentes orginales para revisión
+Mozilla.org</br>
 https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery/cross_browser_video_player
+
+Ian Devlin</br>
 https://github.com/iandevlin/iandevlin.github.io
 
 # Agradecimientos especiales:
