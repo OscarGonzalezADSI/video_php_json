@@ -46,5 +46,5 @@ Para proyectos y asesorias <a target="_blank" href="https://api.whatsapp.com/sen
 # Agradecimientos especiales:
 A flotar, centro de estética y relajación, por apoyarme en mis primeros pasos </br>
 como consultor independiente en desarrollo de software.</br>
-<a href="https://flotarspa.com/">flotarspa.com</a>
+<a target="_blank" href="https://flotarspa.com/">flotarspa.com</a>
 
