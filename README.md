@@ -45,5 +45,5 @@ Para proyectos y asesorias <a href="https://api.whatsapp.com/send?phone=57322885
 
 # Agradecimientos especiales:
 A flotar, centro de estética y relajación, por apoyarme en mis primeros pasos </br>
-como consultor independiente en desarrollo de software. <a href="https://flotarspa.com/">flotarspa.com</a>
+como consultor independiente en desarrollo de software. <a href="https://flotarspa.com/">https.flotarspa.com</a>
 
