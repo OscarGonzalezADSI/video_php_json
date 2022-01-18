@@ -7,7 +7,7 @@ está basado el presente trabajo.
 
 El código fuente de origen está basado en html css y javascript. sin embargo, poseía un
 ejecutable cuyo utilidad no es requerida para que funcione correctamente. De manera
-que el presente trabajo a diferencia del original es totalmente transparente a quien
+que, el presente trabajo, a diferencia del original, es totalmente transparente a quien
 use.
 
 # Factor diferencial
