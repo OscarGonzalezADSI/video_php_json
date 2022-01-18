@@ -12,7 +12,7 @@ lo use.
 
 # Factor diferencial
 El factor diferencial de mi propuesta, fue adaptar el código bajo la arquitectura 
-módelo-vista-contralador usando php como lenguaje de programación, usando formato 
+módelo-vista-contralador usando PHP como lenguaje de programación, usando formato 
 json para consulta de datos, en vez de conexión directa a base de datos.
 
 # Escalabilidad
