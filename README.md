@@ -5,7 +5,7 @@ Diseño fronted html, php, javascript y css para navegar en una lista de videos.
 Este código es publicado como software libre, igual que el trabajo en el que 
 está basado el presente trabajo.
 
-El código fuente de origen está en html css y javascript. sin embargo, poseía un
+El código fuente de origen está basado en html css y javascript. sin embargo, poseía un
 ejecutable cuyo utilidad no es requerida para que funcione correctamente. De manera
 que el presente trabajo a diferencia del original es totalmente transparente a quien
 use.
