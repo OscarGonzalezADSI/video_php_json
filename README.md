@@ -36,9 +36,10 @@ https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery/cros
 https://github.com/iandevlin/iandevlin.github.io
 
 # Agradecimientos especiales:
-a flotar, centro de estetica y relajación, por apoyarme en mis primeros 
-pasos como consultor independiente en desarrollo de software. 
-Sin su apoyo esto no hubiera sido posible. http://flotarspa.com/
+A flotar, centro de estetica y relajación, por apoyarme en mis primeros 
+pasos como consultor independiente en desarrollo de software.
+
+Sin su apoyo, esto no hubiera sido posible. http://flotarspa.com/
 
 oscar gonzalez
 To. ADSI-SENA
