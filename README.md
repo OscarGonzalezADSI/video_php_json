@@ -46,4 +46,5 @@ Para proyectos y asesorias (+57)322-8858439 whatsapp</br>
 # Agradecimientos especiales:
 A flotar, centro de estetica y relajación, por apoyarme en mis primeros 
 pasos como consultor independiente en desarrollo de software.</br>
+https://flotarspa.com/
 
