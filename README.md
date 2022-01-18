@@ -1,7 +1,7 @@
 # video_php_json
 Diseño fronted html, php, javascript y css para navegar en una lista de videos.
 
-# sobre la licencia
+# Sobre la licencia
 Este código es publicado como software libre, igual que el trabajo en el que 
 está basado el presente trabajo.
 
@@ -10,12 +10,12 @@ ejecutable cuyo utilidad no es requerida para que funcione correctamente. De man
 que el presente trabajo a diferencia del original es totalmente transparente a quien
 use.
 
-# factor diferencial
+# Factor diferencial
 El factor diferencial de mi propuesta, fue adaptar el código bajo la arquitectura 
 módelo-vista-contralador usando php como lenguaje de programación, usando formato 
 json para consulta de datos, en vez de conexión directa a base de datos.
 
-# escalabilidad
+# Escalabilidad
 Es posible adaptar el código rapidamente a cualquier proyecto, puesto que solo se 
 necesita diseñar una base de datos compatible con la estructura del paquete de datos 
 tipo Json. Esto no está incluido, puesto que la idea del este código sea facil de usar, 
@@ -23,7 +23,7 @@ para hacer modificaciones al código solo cuando sea absolutamente necesario.
 
 Muchas gracias a los desarrolladores que con su trabajo hicieron posible esto.
 
-# Creditos:
+# Créditos:
 
 Mozilla.org</br>
 https://developer.mozilla.org
@@ -31,7 +31,7 @@ https://developer.mozilla.org
 Ian Devlin</br>
 https://github.com/iandevlin
 
-# fuentes orginales para revisión
+# Fuentes orginales para revisión
 https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery/cross_browser_video_player
 https://github.com/iandevlin/iandevlin.github.io
 
